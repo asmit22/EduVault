@@ -43,7 +43,7 @@ export default function Landing() {
       <section className="hero">
         <div className="hero-glow" />
         <div className="hero-content">
-          <div className="hero-tag">For students, by faculty</div>
+          <div className="hero-tag">For students, by students</div>
           <h1 className="hero-title">
             Every paper.<br />
             Every note.<br />
